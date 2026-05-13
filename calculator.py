@@ -3,4 +3,4 @@ def calculer_tva(prix_ht: float) -> float :
 
 ##------------------------------------------
 def calculate_tip(bill.float, percentage: float) -> float:
-return bill * percentage / 100 
+return bill * percentage / 200
